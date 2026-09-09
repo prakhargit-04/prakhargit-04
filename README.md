@@ -7,81 +7,95 @@
 <br/>
 
 <a href="https://github.com/prakhargit-04">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/prakharbhardwajpb">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=818CF8"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:prakharbha2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=818CF8"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## `> about`
+<div align="center">
 
-```text
-Prakhar Bhardwaj
-────────────────────────────────────────────
-
-🎓  B.Tech CSE @ VIT Chennai
-📅  Class of 2028
-
-⚡  Full-Stack Development
-⛓️  Blockchain / Web3
-🧠  AI-assisted engineering
-
-🔨  Currently building → TRUSTIX
-📚  Currently exploring → Web3 + AI
-```
+🎓 **B.Tech CSE** @ VIT Chennai &nbsp;•&nbsp; 📅 Class of 2028 &nbsp;•&nbsp; 🔨 Currently building **TRUSTIX**
 
 I like building practical software, learning by implementation, and turning ideas into working projects.
 
----
+</div>
 
-## `> featured_projects`
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⛓️ TRUSTIX
-
 **NFT-based decentralized event ticketing dApp**
 
-A blockchain-powered ticketing system built around verifiable NFT ownership, on-chain resale price caps, and creator royalties — deployed and tested on the Sepolia testnet.
+Blockchain-powered ticketing with verifiable NFT ownership, on-chain resale price caps, and creator royalties — deployed and tested on Sepolia testnet.
 
-**Built with:** `Solidity` `React` `Hardhat` `Ethers.js`
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square)
 
-[**View Repository →**](https://github.com/prakhargit-04/event-ticketing-dapp)
+**[View Repository →](https://github.com/prakhargit-04/event-ticketing-dapp)**
 
----
+</td>
+<td width="50%" valign="top">
 
-### ☕ Internet Café Management System
+### ☕ Internet Café Manager
+**Full-stack café operations system**
 
-A full-stack management system for real-world internet café operations — bookings, sessions, and payments.
+Handles bookings, live sessions, and payments for real-world internet café workflows.
 
-**Built with:** `TypeScript` `Express` `PostgreSQL` `Prisma` `Socket.io`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-[**View Repository →**](https://github.com/prakhargit-04/internet-cafe)
+**[View Repository →](https://github.com/prakhargit-04/internet-cafe)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ✉️ PRIION — Email Prioritization
+### ✉️ PRIION
+**AI-assisted email prioritization**
 
-An AI-assisted platform that processes and prioritizes emails using Gmail + Gemini APIs.
+Processes and ranks emails by importance using Gmail and Gemini APIs.
 
-**Built with:** `Next.js` `TypeScript` `Gemini API` `Gmail API`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-[**View Repository →**](https://github.com/prakhargit-04/priion_final)
+**[View Repository →](https://github.com/prakhargit-04/priion_final)**
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔄 Regex ⇄ Automata Converter
+### 🔄 Automata Converter
+**RE ⇄ NFA ⇄ DFA visual converter**
 
-An interactive tool for converting between regular expressions and finite automata (RE ⇄ NFA ⇄ DFA).
+Interactive tool converting between regular expressions and finite automata.
 
-**Built with:** `React` `TypeScript` `Vite`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-[**View Repository →**](https://github.com/prakhargit-04/automata-converter)
+**[View Repository →](https://github.com/prakhargit-04/automata-converter)**
+
+</td>
+</tr>
+</table>
 
 ---
 
