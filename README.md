@@ -36,7 +36,7 @@ I like building practical software, learning by implementation, and turning idea
 <tr>
 <td width="50%" valign="top">
 
-### ⛓️ TRUSTIX
+### TRUSTIX
 **NFT-based decentralized event ticketing dApp**
 
 Blockchain-powered ticketing with verifiable NFT ownership, on-chain resale price caps, and creator royalties — deployed and tested on Sepolia testnet.
