@@ -22,7 +22,7 @@
 
 <div align="center">
 
-**B.Tech CSE** @ VIT Chennai &nbsp;•&nbsp; Class of 2028 &nbsp;•&nbsp; Currently building **TRUSTIX**
+ **B.Tech CSE** @ VIT Chennai &nbsp;•&nbsp;  Class of 2028 &nbsp;•&nbsp;  Currently building **TRUSTIX**
 
 I like building practical software, learning by implementation, and turning ideas into working projects.
 
@@ -30,7 +30,7 @@ I like building practical software, learning by implementation, and turning idea
 
 <br/>
 
-## Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ Blockchain-powered ticketing with verifiable NFT ownership, on-chain resale pric
 </td>
 <td width="50%" valign="top">
 
-### Internet Café Manager
+###  Internet Café Manager
 **Full-stack café operations system**
 
 Handles bookings, live sessions, and payments for real-world internet café workflows.
@@ -68,7 +68,7 @@ Handles bookings, live sessions, and payments for real-world internet café work
 <tr>
 <td width="50%" valign="top">
 
-### PRIION
+###  PRIION
 **AI-assisted email prioritization**
 
 Processes and ranks emails by importance using Gmail and Gemini APIs.
@@ -82,7 +82,7 @@ Processes and ranks emails by importance using Gmail and Gemini APIs.
 </td>
 <td width="50%" valign="top">
 
-### Automata Converter
+###  Automata Converter
 **RE ⇄ NFA ⇄ DFA visual converter**
 
 Interactive tool converting between regular expressions and finite automata.
@@ -125,7 +125,7 @@ Interactive tool converting between regular expressions and finite automata.
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=prakhargit-04&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhargit-04&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -134,6 +134,10 @@ Interactive tool converting between regular expressions and finite automata.
 ## `> contributions`
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhargit-04&bg_color=050816&color=818cf8&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/prakhargit-04/prakhargit-04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
